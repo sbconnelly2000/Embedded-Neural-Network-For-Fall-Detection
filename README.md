@@ -1,5 +1,5 @@
 # Embedded-Neural-Network-For-Fall-Detection
-View Poster For More Information\
+View Poster For More Information
 
 Model Accuracy:
   Before Quantization: 97 Percent
